@@ -7,7 +7,7 @@ int main () {
   short int x = 32767;
 
   printf("Valor de x: %d\n", x);
-  x++;
+  x++; 
 
   printf("Valor de x: %hi\n", x);
 
